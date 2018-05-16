@@ -1,3 +1,8 @@
+---
+title: Second Page
+permalink: intro.html
+---
+
 # Introduction
 This overview outlines an approach to developing documentation plans in consultation with development teams, release management, quality assurance, and other stakeholders. This metaplan provides some ways of framing conversations around what documentation should be produced and how, and is not intended to be exhaustive or prescriptive. 
 
