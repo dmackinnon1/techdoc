@@ -19,7 +19,7 @@ A key theme throughout is that documentation should not be created outside of th
 
 [Provide Contribution Processes](contribute.html)
 
-[Identify Style and other Standards](standars.html)
+[Identify Style and other Standards](standards.html)
 
 [Plan for Issue Tracking](issues.html)
 

@@ -1,7 +1,7 @@
 ---
 title: features
 permalink: features.html
---
+---
 
 # Develop a Process for Documenting New Features
 

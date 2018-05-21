@@ -1,6 +1,6 @@
 ---
 title: What to Document
-permalink: intro.html
+permalink: what.html
 ---
 
 # What to Document

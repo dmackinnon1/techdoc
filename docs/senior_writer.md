@@ -1,7 +1,7 @@
 ---
 title: Senior Writer
 permalink: senior_writer.html
---
+---
 
 # Senior Technical Writer Role
 
