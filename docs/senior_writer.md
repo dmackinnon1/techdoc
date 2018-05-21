@@ -5,6 +5,8 @@ permalink: senior_writer.html
 
 # Senior Technical Writer Role
 
+What are the expectations for the person who is creating the documentation plan? Develoment and release managers may need a clear description of the senior technical writer role in order to set their expectations. This section describes some elements that might make up the senior technical writer role.
+
 In addition to the production of high quality documentation, new documentation projects require planning, the establishment of processes for production, review, and publication, as well as ongoing capacity building. Consequently, the senior technical writer will:
 
 - *Create a documentation plan in collaboration with the development team.* Working with development team, the senior technical writer will establish an overall documentation plan that describes deliverables and timelines. The plan will describe priorities in terms of the functional areas to be documented, the types of documentation to be provided, and the intended audiences.
