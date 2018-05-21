@@ -24,12 +24,12 @@ In addition to the production of high quality documentation, new documentation p
 - *Understand users.* The senior technical writer must understand who the consumers of the software and its documentation are, and ensure that documentation is accessible and presented appropriately. This will require consultation with development, and possibly other stakeholders (other development teams, support, etc.) The senior technical writer will establish mechanisms for providing feedback on documentation in terms of requests for new documentation, identification of  defects, and feedback on overall quality and usability.
 
 - *Produce high quality documentation.* The senior technical writer will be responsible for producing documentation which may include: 
-* API documentation, describing specific functions, interfaces, etc.;
-* How-to guides, written to address user scenarios;
-* Code samples showing how to use the APIs;
-* Best-practice guides for developers; 
-* Documentation required to meet Privacy, Legal, or other Corporate policy requirements;
-* Release notes.
+    * API documentation, describing specific functions, interfaces, etc.;
+    * How-to guides, written to address user scenarios;
+    * Code samples showing how to use the APIs;
+    * Best-practice guides for developers; 
+    * Documentation required to meet Privacy, Legal, or other Corporate policy requirements;
+    * Release notes.
 
 - *Produce documentation in a variety of formats.* Documentation may be directly consumed by users or may be used in other processes to transform the formatting and presentation of the documentation. Consequently, documentation may be required to be produced in presentation formats such as HTML or Markdown, or in structured formats, possibly including JSON, XML, YAML, etc.
 
