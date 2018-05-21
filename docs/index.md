@@ -17,7 +17,7 @@ A key theme throughout is that documentation should not be created outside of th
 
 [Define Terminology](terminology.html)
 
-[Types of documentation and their relationship with code](types.html)
+[Documentation Types and Their Relationship with Code](types.html)
 
 [Provide Contribution Processes](contribute.html)
 
