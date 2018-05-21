@@ -1,6 +1,6 @@
 ---
-title: Second Page
-permalink: intro.html
+title: Introduction
+permalink: introduction.html
 ---
 
 # Introduction
