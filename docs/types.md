@@ -15,6 +15,6 @@ One way of understanding different documentation processes and products is to co
 
 The table below summarizes how various types of documentation may be embedded in the code base itself, may live alongside the code, may be in a distinct repository that is kept in sync with the code repo, or it may be detached from the code development and release cycle. 
 
-|Embedded | Parallel | Synchronized |Decoupled|
-|----------|--------|----------|---------|
+![alt text](types_table.png "document types")
+
 
