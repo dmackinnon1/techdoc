@@ -1,6 +1,6 @@
 # Senior Technical Writer Role
 
-In addition to the production of high quality documentation, new documentation projects require planning, the establishment of processes for production, review, and publication, as well as ongoing capacity building. Consequently, the senior technical writer will:
+In addition to high quality documentation, new documentation projects require processes for production, review, and publication, as well as ongoing capacity building. Consequently, a senior technical writer will:
 
 **Create a documentation plan in collaboration with the development team.** Working with development team, the senior technical writer will establish an overall documentation plan that describes deliverables and timelines. The plan will describe priorities in terms of the functional areas to be documented, the types of documentation to be provided, and the intended audiences.
 
@@ -30,4 +30,5 @@ In addition to the production of high quality documentation, new documentation p
 
 **Produce a variety of media.** In addition to documentation presented on web pages and documents, the senior technical writer will produce a variety of visuals including diagrams, charts, etc. and may author presentations, videos, and blog posts.
 
-**Establish and promote style and content guidelines.** The tone and style used in documentation can vary greatly depending on the audience and documentation content. A consistent style and tone that is appropriate for the audience and the type of documentation is essential. Consistent style improves readability and accessibility, and tone helps to set user expectations for the organization and its products. All contributors need to not only be aware of style and content guidelines, but understand why they are important.
+**Establish and promote style and content guidelines.** The tone and style used in documentation can vary greatly depending on the audience and documentation content. A consistent style and tone that is appropriate for the audience and the type of documentation is essential. Consistent style improves readability and accessibility, and tone helps to set user expectations for the organization and its products. All contributors need to not only be aware of style and content guidelines, but understand why they are important. Reviewers and quality assurance testers must also be aware of guidelines, and be provided with tools (such as checklists and examples) that will help evaluate documentation for tone and style.
+
